@@ -3,10 +3,13 @@
 # Hi!
 I'm Yoru and I code for fun.
 I usually listen to music and talk to my friends on discord but I occasionally play some games.
-You can find me at [Discord](https://discord.com/users/372343076578131968), [Twitter](https://twitter.com/ken_yoru), [YouTube](https://www.youtube.com/@yorunoken/)
+Places you can find me:
+
+- [Discord](https://discord.com/users/372343076578131968)
+- [Twitter](https://twitter.com/ken_yoru)
+- [YouTube](https://www.youtube.com/@yorunoken/)
+
 I also have a [website](https://yoru.com.tr/), check it out!
-
-
 
 # Projects
 - [HanamiBot](https://github.com/YoruNoKen/HanamiBot), A Discord bot for osu!
