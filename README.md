@@ -3,11 +3,13 @@
 # Hi!
 **I'm Yoru and I code for fun.**
 
+**I develop creative projects and bring interesting ideas to life.**
+
 **I usually listen to music and talk to my friends on discord but I occasionally play some games.**
 
 Places you can find me:
 
-- [Discord](https://discord.com/users/372343076578131968)
+- [Discord](https://discord.com/users/372343076578131968) (you can commission me)
 - [Twitter](https://twitter.com/ken_yoru)
 - [YouTube](https://www.youtube.com/@yorunoken/)
 
