@@ -14,11 +14,14 @@
 
 Places you can find me:
 
-  - <a href="https://discord.com/users/372343076578131968" target="_blank">Discord</a> (commissions are open)</li>
-  -<a href="https://twitter.com/ken_yoru" target="_blank">Twitter</a></li>
-  -<a href="https://www.youtube.com/@yorunoken/" target="_blank">YouTube</a></li>
+  - <a href="https://discord.com/users/372343076578131968" target="_blank">Discord</a> (commissions are open)
+
+  - <a href="https://twitter.com/ken_yoru" target="_blank">Twitter</a>
+
+  - <a href="https://www.youtube.com/@yorunoken/" target="_blank">YouTube</a>
 
 I also have a <a href="https://yoru.com.tr/" target="_blank">website</a>, check it out!
+
 </div>
 
 ### My Projects
