@@ -16,7 +16,7 @@ Places you can find me:
 
 I also have a [website](https://yoru.com.tr/), check it out!
 
-### Projects
+### My Projects
 
 <div align="center">
 <a href="https://github.com/YoruNoKen/HanamiBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YoruNoKen&repo=HanamiBot&theme=radical"></a>
@@ -27,6 +27,9 @@ I also have a [website](https://yoru.com.tr/), check it out!
 
 ### GitHub Analytics
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yorunoken&show_icons=true&theme=radical)
-
-![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yorunoken&theme=radical)
+<div align="center">
+<a href="https://github.com/YoruNoKen">
+    <img src="https://github-readme-stats.vercel.app/api?username=yorunoken&show_icons=true&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yorunoken&theme=radical">
+</a>
+</div>
