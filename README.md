@@ -9,19 +9,19 @@
 # Hi!
 
 <div>
-<bold>I'm Yoru and I code for fun.</br></bold>
-<bold>I develop creative projects and bring interesting ideas to life.</br></bold>
-<bold>I usually listen to music and talk to my friends on discord but I occasionally play some games.</bold>
+**I'm Yoru and I code for fun.</br>**
+**I develop creative projects and bring interesting ideas to life.</br>**
+**I usually listen to music and talk to my friends on discord but I occasionally play some games.**
 
-<p>Places you can find me:</p>
+</br>
 
-<ul>
-  <li><a href="https://discord.com/users/372343076578131968" target="_blank">Discord</a> (commissions are open)</li>
-  <li><a href="https://twitter.com/ken_yoru" target="_blank">Twitter</a></li>
-  <li><a href="https://www.youtube.com/@yorunoken/" target="_blank">YouTube</a></li>
-</ul>
+Places you can find me:
 
-<p>I also have a <a href="https://yoru.com.tr/" target="_blank">website</a>, check it out!</p>
+  - <a href="https://discord.com/users/372343076578131968" target="_blank">Discord</a> (commissions are open)</li>
+  -<a href="https://twitter.com/ken_yoru" target="_blank">Twitter</a></li>
+  -<a href="https://www.youtube.com/@yorunoken/" target="_blank">YouTube</a></li>
+
+I also have a <a href="https://yoru.com.tr/" target="_blank">website</a>, check it out!
 </div>
 
 ### My Projects
