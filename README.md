@@ -1,16 +1,13 @@
 ![BTR banner](./banner.jpeg)
 
-<style>
-    bold {
-        font-weight: bold
-    }
-</style>
-
 # Hi!
 
 <div>
+
 **I'm Yoru and I code for fun.**</br>
+
 **I develop creative projects and bring interesting ideas to life.**</br>
+
 **I usually listen to music and talk to my friends on discord but I occasionally play some games.**
 
 </br>
