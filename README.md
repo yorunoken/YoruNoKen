@@ -1,6 +1,7 @@
-![Banner](./banner.jpeg)
+![BTR banner](./banner.jpeg)
 
 # Hi!
+
 **I'm Yoru and I code for fun.**
 
 **I develop creative projects and bring interesting ideas to life.**
@@ -15,16 +16,16 @@ Places you can find me:
 
 I also have a [website](https://yoru.com.tr/), check it out!
 
-# Projects
-- [HanamiBot](https://github.com/YoruNoKen/HanamiBot), A Discord bot for osu!
+### Projects
 
-- [DMU](https://github.com/YoruNoKen/discord-mass-uploader), A Discord bot that divides very large files into chunks and stores them in threads so they can be downloaded later.
+<div align="center">
+<a href="https://github.com/YoruNoKen/HanamiBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YoruNoKen&repo=HanamiBot&theme=radical"></a>
+<a href="https://github.com/YoruNoKen/mcsr-ranked-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YoruNoKen&repo=mcsr-ranked-api&theme=radical"></a>
+<a href="https://github.com/YoruNoKen/discord-mass-uploader"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YoruNoKen&repo=discord-mass-uploader&theme=radical"></a>
+<a href="https://github.com/YoruNoKen/CCTV-Discord-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YoruNoKen&repo=CCTV-Discord-Bot&theme=radical"></a>
+</div>
 
-- [CCTV-Discord-Bot](https://github.com/YoruNoKen/CCTV-Discord-Bot), A Discord bot that randomly fetches unsecured CCTV cameras from [Insecam](http://www.insecam.org/) and send it as a Discord message
-
-- [mcsr-ranked-api](https://github.com/YoruNoKen/mcsr-ranked-api), An API wrapper for [mcsr ranked](https://mcsrranked.com/).
-
-# Stats
+### GitHub Analytics
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yorunoken&show_icons=true&theme=radical)
 
