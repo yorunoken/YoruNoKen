@@ -1,16 +1,12 @@
 ![BTR banner](./banner.jpeg)
 
-# Hi!
+## About Me
 
 <div>
 
-**I'm Yoru and I code for fun.**</br>
-
-**I develop creative projects and bring interesting ideas to life.**</br>
-
-**I usually listen to music and talk to my friends on discord but I occasionally play some games.**
-
-</br>
+Hello. I'm Yoru and I code for fun!</br>
+I develop creative projects and bring interesting ideas to life.</br>
+I usually listen to music and talk to my friends on discord but I occasionally play some games like osu! and TitanFall 2.
 
 Places you can find me:
 
