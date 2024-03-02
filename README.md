@@ -20,6 +20,8 @@ I also have a <a href="https://yoru.com.tr/" target="_blank">website</a>, check 
 
 </div>
 
+[![](https://visitcount.itsvg.in/api?id=yorunoken&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
 ### My Projects
 
 <div align="center">
