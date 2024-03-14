@@ -16,7 +16,7 @@ Places you can find me:
   <li><a href="https://www.youtube.com/@yorunoken/" target="_blank">YouTube</a></li>
 </ul>
 
-I also have a <a href="https://yoru.com.tr/" target="_blank">website</a>, check it out!
+I also have a <a href="https://yorunoken.com/" target="_blank">website</a>, check it out!
 
 </div>
 
