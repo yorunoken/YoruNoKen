@@ -3,10 +3,11 @@
 ## About Me
 
 <div>
-
-Hello. I'm Yoru and I code for fun!</br>
-I develop creative projects and bring interesting ideas to life.</br>
-I usually listen to music and talk to my friends on discord but I occasionally play some games like osu! and TitanFall 2.
+  
+Hello, I'm Yoru!</br>
+I like cute things ヾ(≧▽≦*)o</br>
+I'm a software developer just trying to learn.</br>
+I mostly play games and listen to music in my free time :3c
 
 Places you can find me:
 
