@@ -27,7 +27,7 @@ I also have a <a href="https://yorunoken.com/" target="_blank">website</a>, chec
 
 <div align="center">
 <a href="https://github.com/YoruNoKen/HanamiBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YoruNoKen&repo=HanamiBot&theme=radical"></a>
-<a href="https://github.com/YoruNoKen/mcsr-ranked-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YoruNoKen&repo=mcsr-ranked-api&theme=radical"></a>
+<a href="https://github.com/YoruNoKen/gatari.js"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YoruNoKen&repo=gatari.js&theme=radical"></a>
 <a href="https://github.com/YoruNoKen/discord-mass-uploader"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YoruNoKen&repo=discord-mass-uploader&theme=radical"></a>
 <a href="https://github.com/YoruNoKen/CCTV-Discord-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YoruNoKen&repo=CCTV-Discord-Bot&theme=radical"></a>
 </div>
