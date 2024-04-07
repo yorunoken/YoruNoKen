@@ -6,7 +6,7 @@
 Hello, I'm Yoru!</br>
 I like cute things ヾ(≧▽≦*)o</br>
 I'm a software developer just trying to learn.</br>
-I mostly play games and listen to music in my free time :3c
+I mostly play games and listen to music in my free time :3c</br>
 
 Check out my Discord bot for osu! at <a href="https://hanami.yorunoken.com" target="_blank">hanami.yorunoken</a>
 
