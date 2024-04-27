@@ -32,7 +32,7 @@ com</a>
 <a href="https://github.com/YoruNoKen/gatari.js"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YoruNoKen&repo=gatari.js&theme=radical"></a>
 <a href="https://github.com/YoruNoKen/discord-mass-uploader"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YoruNoKen&repo=discord-mass-uploader&theme=radical"></a>
 <a href="https://github.com/YoruNoKen/CCTV-Discord-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YoruNoKen&repo=CCTV-Discord-Bot&theme=radical"></a>
-  <a href="https://github.com/YoruNoKen/HanamiCardt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YoruNoKen&repo=HanamiCard&theme=radical"></a>
+  <a href="https://github.com/YoruNoKen/HanamiCard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YoruNoKen&repo=HanamiCard&theme=radical"></a>
   <a href="https://github.com/YoruNoKen/fun-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YoruNoKen&repo=fun-api&theme=radical"></a>
 </div>
 
