@@ -9,8 +9,7 @@ I'm a software developer just trying to learn.</br>
 I mostly play games and listen to music in my free time :3c</br></br>
 
 
-Check out my Discord bot for osu! at <a href="https://hanami.yorunoken.com" target="_blank">hanami.yorunoken</a>
-
+Check out my Discord bot for osu! at <a href="https://hanami.yorunoken.com" target="_blank">hanami.yorunoken</a></br>
 I've also got a personal website at <a href="https://yorunoken.com" target="_blank">yorunoken
 com</a>
 
