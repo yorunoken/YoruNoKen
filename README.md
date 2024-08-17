@@ -34,7 +34,7 @@ com</a>
 
 <div align="center">
 <a href="https://github.com/YoruNoKen">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yorunoken&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yorunoken&theme=radical&hide=shell">
     <img src="https://github-readme-stats.vercel.app/api?username=yorunoken&show_icons=true&theme=radical">
 </a>
 </div>
